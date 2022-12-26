@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sarper"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity android:name=".chooseBreakfast"
+            tools:ignore="ExtraText">
+            android:label="chooseBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.MainActivity" />
+        </activity>
+        <activity android:name=".chooseLunch">
+            android:label="chooseLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.MainActivity" />
+        </activity>
+        <activity android:name=".chooseDinner">
+            android:label="chooseDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.MainActivity" />
+        </activity>
+        <activity android:name=".chooseFatHeavyForBreakfast">
+            android:label="chooseFatHeavyForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseBreakfast" />
+        </activity>
+        <activity android:name=".chooseProRichForBreakfast">
+            android:label="chooseProRichForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseBreakfast" />
+        </activity>
+        <activity android:name=".chooseCarboForBreakfast">
+            android:label="chooseCarboForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseBreakfast" />
+        </activity>
+        <activity android:name=".chooseCarboForDinner">
+            android:label="chooseCarboForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseDinner" />
+        </activity>
+        <activity android:name=".chooseProRichForDinner">
+            android:label="chooseProRichForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseDinner" />
+        </activity>
+        <activity android:name=".chooseFatHeavyForDinner">
+            android:label="chooseFatHeavyForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseDinner" />
+        </activity>
+    </application>
+
+</manifest>
