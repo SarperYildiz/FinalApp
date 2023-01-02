@@ -3,22 +3,15 @@ package com.example.sarper;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.widget.EditText;
-import android.widget.TextView;
-import android.widget.ToggleButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.NavUtils;
 
-import java.util.ArrayList;
-
-public class chooseFatHeavyForBreakfast extends AppCompatActivity {
-
+public class chooseCarboForLunch extends AppCompatActivity {
 
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.fatheavyforbreakfast);
-
+        setContentView(R.layout.carbolunch);
     }
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {

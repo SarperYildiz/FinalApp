@@ -98,6 +98,22 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.sarper.chooseDinner" />
         </activity>
+        <activity android:name=".chooseFatHeavyForLunch">
+            android:label="chooseFatHeavyForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseLunch" />
+        </activity>
+        <activity android:name=".chooseCarboForLunch">
+            android:label="chooseCarboForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseLunch" />
+        </activity>
     </application>
 
 </manifest>
