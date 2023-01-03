@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "1085037413004",
-    "project_id": "eatsy-38485",
-    "storage_bucket": "eatsy-38485.appspot.com"
+    "project_number": "853505566686",
+    "project_id": "eatsy-a7f83",
+    "storage_bucket": "eatsy-a7f83.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1085037413004:android:4d957e851bf8191de3f1a9",
+        "mobilesdk_app_id": "1:853505566686:android:6099f20cda605da9df1f4f",
         "android_client_info": {
           "package_name": "com.example.sarper"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1085037413004-5b10lmdcb7ifcaos3524f33s1p9inrke.apps.googleusercontent.com",
+          "client_id": "853505566686-apfac8fmrudtipgt8pb0tnr5o9esg4lc.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDZVkufpGlq5vLrR649H46XWZEoQwJXymM"
+          "current_key": "AIzaSyAsuaPWW2cv-oKcSkRRUyI3ZSsrYErDpW0"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1085037413004-5b10lmdcb7ifcaos3524f33s1p9inrke.apps.googleusercontent.com",
+              "client_id": "853505566686-apfac8fmrudtipgt8pb0tnr5o9esg4lc.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
