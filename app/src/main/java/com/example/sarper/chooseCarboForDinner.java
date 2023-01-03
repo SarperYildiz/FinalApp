@@ -81,7 +81,7 @@ public class chooseCarboForDinner extends AppCompatActivity {
 
             @Override
             public void onClick(View view) {
-                btn.setText("heyyo");
+
                 if (btn==btn_29){
                     Intent btn=new Intent(chooseCarboForDinner.this, choosenCarboMeal1ForDinner.class);
                     startActivity(btn);}

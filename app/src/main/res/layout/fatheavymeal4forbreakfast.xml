@@ -9,8 +9,8 @@
         android:id="@+id/textView13"
         android:layout_width="65dp"
         android:layout_height="11dp"
-        android:layout_marginTop="304dp"
-        android:text="meal4"
+        android:text="BAGEL"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
