@@ -1,6 +1,6 @@
 package com.example.sarper;
 
-import static com.example.sarper.R.id.button5;
+
 
 import android.content.Intent;
 import android.os.Bundle;

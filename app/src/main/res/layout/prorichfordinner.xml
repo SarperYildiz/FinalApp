@@ -18,7 +18,7 @@
         app:layout_constraintVertical_bias="0.183" />
 
     <Button
-        android:id="@+id/button26"
+        android:id="@+id/btn_33"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
@@ -30,7 +30,7 @@
         app:layout_constraintVertical_bias="0.289" />
 
     <Button
-        android:id="@+id/button27"
+        android:id="@+id/btn_34"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Button"
@@ -42,7 +42,7 @@
         app:layout_constraintVertical_bias="0.445" />
 
     <Button
-        android:id="@+id/button28"
+        android:id="@+id/btn_35"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="252dp"
@@ -53,7 +53,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button29"
+        android:id="@+id/btn_36"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="124dp"
@@ -64,9 +64,10 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button30"
+        android:id="@+id/btn_pickMeal9"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:onClick="click_pickMeal"
         android:text="pick meal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

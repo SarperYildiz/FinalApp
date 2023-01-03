@@ -114,6 +114,295 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.sarper.chooseLunch" />
         </activity>
+        <activity android:name=".choosenFatHeavyMeal1ForBreakfast">
+            android:label="choosenFatHeavyMeal1ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForBreakfast" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal2ForBreakfast">
+            android:label="choosenFatHeavyMeal2ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForBreakfast" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal3ForBreakfast">
+            android:label="choosenFatHeavyMeal3ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForBreakfast" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal4ForBreakfast">
+            android:label="choosenFatHeavyMeal4ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForBreakfast" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal1ForLunch">
+            android:label="choosenFatHeavyMeal1ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForLunch" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal2ForLunch">
+            android:label="choosenFatHeavyMeal2ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForLunch" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal3ForLunch">
+            android:label="choosenFatHeavyMeal3ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForLunch" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal4ForLunch">
+            android:label="choosenFatHeavyMeal4ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForLunch" />
+        </activity>
+        <activity android:name=".choosenCarboMeal1ForBreakfast">
+            android:label="choosenCarboMeal1ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForBreakfast" />
+        </activity>
+        <activity android:name=".choosenCarboMeal2ForBreakfast">
+            android:label="choosenCarboMeal2ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForBreakfast" />
+        </activity>
+        <activity android:name=".choosenCarboMeal3ForBreakfast">
+            android:label="choosenCarboMeal3ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForBreakfast" />
+        </activity>
+        <activity android:name=".choosenCarboMeal4ForBreakfast">
+            android:label="choosenCarboMeal4ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForBreakfast" />
+        </activity>
+        <activity android:name=".choosenProteinMeal1ForBreakfast">
+            android:label="choosenProteinMeal1ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForBreakfast" />
+        </activity>
+        <activity android:name=".choosenProteinMeal2ForBreakfast">
+            android:label="choosenProteinMeal2ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForBreakfast" />
+        </activity>
+        <activity android:name=".choosenProteinMeal3ForBreakfast">
+            android:label="choosenProteinMeal1ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForBreakfast" />
+        </activity>
+        <activity android:name=".choosenProteinMeal4ForBreakfast">
+            android:label="choosenProteinMeal4ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForBreakfast">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForBreakfast" />
+        </activity>
+        <activity android:name=".choosenCarboMeal1ForLunch">
+            android:label="choosenCarboMeal1ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForLunch" />
+        </activity>
+        <activity android:name=".choosenCarboMeal2ForLunch">
+            android:label="choosenCarboMeal2ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForLunch" />
+        </activity>
+        <activity android:name=".choosenCarboMeal3ForLunch">
+            android:label="choosenCarboMeal3ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForLunch" />
+        </activity>
+        <activity android:name=".choosenCarboMeal4ForLunch">
+            android:label="choosenCarboMeal4ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForLunch" />
+        </activity>
+        <activity android:name=".choosenProteinMeal1ForLunch">
+            android:label="choosenProteinMeal1ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForLunch" />
+        </activity>
+        <activity android:name=".choosenProteinMeal2ForLunch">
+            android:label="choosenProteinMeal2ForLuncht"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForLunch" />
+        </activity>
+        <activity android:name=".choosenProteinMeal3ForLunch">
+            android:label="choosenProteinMeal3ForLunch"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForLunch" />
+        </activity>
+        <activity android:name=".choosenProteinMeal4ForLunch">
+            android:label="choosenProteinMeal1ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForLunch">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForLunch" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal1ForDinner">
+            android:label="choosenFatHeavyMeal1ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForDinner" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal2ForDinner">
+            android:label="choosenProteinMeal2ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForDinner" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal3ForDinner">
+            android:label="choosenProteinMeal3ForBreakfast"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForDinner" />
+        </activity>
+        <activity android:name=".choosenFatHeavyMeal4ForDinner">
+            android:label="choosenFatHeavyMeal4ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseFatHeavyForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForDinner" />
+        </activity>
+        <activity android:name=".choosenCarboMeal1ForDinner">
+            android:label="choosenFatHeavyMeal4ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForDinner" />
+        </activity>
+        <activity android:name=".choosenCarboMeal2ForDinner">
+            android:label="choosenCarboMeal2ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForDinner" />
+        </activity>
+        <activity android:name=".choosenCarboMeal3ForDinner">
+            android:label="choosenCarboMeal3ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseFatHeavyForDinner" />
+        </activity>
+        <activity android:name=".choosenCarboMeal4ForDinner">
+            android:label="choosenCarboMeal4ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseCarboForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseCarboForDinner" />
+        </activity>
+        <activity android:name=".choosenProteinMeal1ForDinner">
+            android:label="choosenProteinMeal1ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForDinner" />
+        </activity>
+        <activity android:name=".choosenProteinMeal2ForDinner">
+            android:label="choosenProteinMeal2ForDinne"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForDinner" />
+        </activity>
+        <activity android:name=".choosenProteinMeal3ForDinner">
+            android:label="choosenProteinMeal3ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForDinner" />
+        </activity>
+        <activity android:name=".choosenProteinMeal4ForDinner">
+            android:label="choosenProteinMeal4ForDinner"
+            android:theme="@style/Theme.AppCompat.Light"
+            android:parentActivityName="com.example.sarper.chooseProRichForDinner">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.sarper.chooseProRichForDinner" />
+        </activity>
+
     </application>
 
 </manifest>
